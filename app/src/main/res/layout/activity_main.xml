@@ -170,6 +170,8 @@
             android:padding="20dp"/>
     </HorizontalScrollView>
 
+    <!--안내 메시지-->
+
 
 
 
